@@ -1,1 +1,0 @@
-typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"com.kriskyll.harkkaprojekti_ohii","l":"Henkilo"},{"p":"com.kriskyll.harkkaprojekti_ohii","l":"Main"},{"p":"com.kriskyll.harkkaprojekti_ohii","l":"Paivamaarat"},{"p":"com.kriskyll.harkkaprojekti_ohii","l":"TiedostonKaytto"}]
