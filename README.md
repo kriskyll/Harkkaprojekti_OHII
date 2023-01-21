@@ -1,3 +1,3 @@
 # Harkkaprojekti_OHII
 
-Harjoitustyö Ohjelmointi 2 -kurssille keväällä 2023.
+Harjoitustyö Ohjelmointi 2 -kurssille keväällä 2022.
